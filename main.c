@@ -9,7 +9,7 @@ int main(int argc, char** argv) {
     float tempoMedio = 0;
     int vet[N]; //Vettore contenente tempi di esecuzione
     float accumulatore; //Vettore contenente tempi di attesa perogni processo.
-    int scelta;
+    int scelta;//Variabile per il costrutto switch
    
 
     // Riempo il vettore con i tempi di esecuzione
